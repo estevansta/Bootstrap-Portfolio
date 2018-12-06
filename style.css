@@ -319,7 +319,7 @@ body {
     .main-section {
         float: left;
         width: 100%;
-        max-width: 640px;
+        max-width: 680px;
         margin: 0 auto;
         clear: both;
     }
@@ -394,7 +394,7 @@ body {
     
     body {
         font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-        font-size: 18px;
+        font-size: 15px;
         line-height: 17px;
         color: #777777;
         background: url("assets/concrete_seamless.png");
@@ -407,7 +407,7 @@ body {
     
       .auth-image {
         float: center;
-        width: 300px;
+        width: 360px;
         height: auto;
         margin-top: 10px;
         margin-right: 25px;
